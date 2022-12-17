@@ -1,0 +1,11 @@
+.rightsec {
+    text-align: right;
+    float: right;
+}
+.leftsec {
+    text-align: left;
+    float: left;
+}
+.image {
+    position: relative;
+}
